@@ -1,5 +1,5 @@
-﻿# Shikela Backend
-Shikela is a scalable multi-vendor e-commerce backend built with Django REST Framework.
+﻿# NAGURVALI Backend
+NAGURVALI is a scalable multi-vendor e-commerce backend built with Django REST Framework.
 
 This README shows how to integrate with all available backend features (all URLs exposed in `core/core/urls.py`).
 
