@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894608097118",
+    "project_id": "shikela-9328a",
+    "storage_bucket": "shikela-9328a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894608097118:android:f0c6fade1613079dcc59cf",
+        "android_client_info": {
+          "package_name": "shikela.shop.manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnvSeP1CYHJHWh_cOXU5rAPZOaSsbet-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+__pycache__/
+*.py[cod]
+*.sqlite3
+venv/
+.env
+.env.*
+.DS_Store
+.vscode/
+
+# Logs and local runtime files
+*.log
+*.pid
+
+# Python cache and tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Firebase / FCM sensitive files
+notifications/fcm/*firebase-adminsdk*.json
+notifications/fcm/service-account*.json
+notifications/fcm/private_key*.json
+
+# Local secret config files
+secrets/
+*.secret
+*.secrets
+*.pem
+*.key
+*.p12
+*.pfx
